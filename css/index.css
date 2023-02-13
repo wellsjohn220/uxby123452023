@@ -12,7 +12,7 @@ h1 {
 #panel {
   padding: 50px;
   display: none;
-  background-color: yellow;
+  background: linear-gradient(to bottom, #ffff66 0%, #ffccff 100%);
 }
 
 #load-screen {
